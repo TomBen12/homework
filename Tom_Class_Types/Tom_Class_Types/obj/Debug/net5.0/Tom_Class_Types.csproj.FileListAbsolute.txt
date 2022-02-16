@@ -1,0 +1,15 @@
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/obj/Debug/net5.0/Tom_Class_Types.csproj.AssemblyReference.cache
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/obj/Debug/net5.0/Tom_Class_Types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/obj/Debug/net5.0/Tom_Class_Types.AssemblyInfoInputs.cache
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/obj/Debug/net5.0/Tom_Class_Types.AssemblyInfo.cs
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/obj/Debug/net5.0/Tom_Class_Types.csproj.CoreCompileInputs.cache
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/bin/Debug/net5.0/Tom_Class_Types.deps.json
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/bin/Debug/net5.0/Tom_Class_Types.runtimeconfig.json
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/bin/Debug/net5.0/Tom_Class_Types.runtimeconfig.dev.json
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/bin/Debug/net5.0/Tom_Class_Types.dll
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/bin/Debug/net5.0/ref/Tom_Class_Types.dll
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/bin/Debug/net5.0/Tom_Class_Types.pdb
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/obj/Debug/net5.0/Tom_Class_Types.dll
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/obj/Debug/net5.0/ref/Tom_Class_Types.dll
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/obj/Debug/net5.0/Tom_Class_Types.pdb
+/Users/tom/Projects/Tom_Class_Types/Tom_Class_Types/obj/Debug/net5.0/Tom_Class_Types.genruntimeconfig.cache
